@@ -1,0 +1,21 @@
+# Environnements virtuels
+venv/
+env/
+__pycache__/
+
+# Fichiers de données volumineux
+*.json
+*.html
+
+# Fichiers de configuration système
+.DS_Store
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de cache
+*.py[cod]
+*$py.class
