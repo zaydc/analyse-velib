@@ -18,7 +18,7 @@ Ce projet consiste en une analyse approfondie du réseau Vélib' à travers diff
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/analyse-velib.git
+   git clone https://github.com/zaydc/analyse-velib.git
    cd analyse-velib
    ```
 
